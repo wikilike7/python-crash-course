@@ -9,7 +9,7 @@ famous_person = 'Steven Jobs'
 message = 'once said, "We\'re here to put a dent in the universe. Otherwise why else even be here?"'
 print(famous_person + message)
 
-name_frod = '\tFrod\n\tBaggins   '
+name_frod = ' Frod Baggins   '
 print(name_frod)
 print(name_frod.lstrip())
 print(name_frod.rstrip())
