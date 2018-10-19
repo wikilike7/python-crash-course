@@ -1,5 +1,5 @@
 def greet_user(name):
-    """显示简单的问候"""
+    """say hello"""
     print("Hello " + name)
 
 
