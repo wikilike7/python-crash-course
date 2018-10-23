@@ -4,3 +4,4 @@ def make_shirt(size, words):
 
 
 make_shirt(185, 'love')
+make_shirt(words='China', size='175')
